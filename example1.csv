@@ -1,0 +1,104 @@
+Date,Product,Category,Quantity,Price,CustomerID
+2023-01-01,Milk,Dairy,10,1.50,C001
+2023-01-01,Bread,Bakery,5,2.00,C002
+2023-01-02,Cheese,Dairy,3,4.00,C001
+2023-01-03,Apple,Fruit,20,0.80,C003
+2023-01-03,Banana,Fruit,15,0.50,C004
+2023-01-04,Chicken,Meat,8,5.00,C005
+2023-01-05,Shampoo,Personal Care,2,6.00,C002
+2023-01-06,Orange Juice,Beverages,7,3.00,C006
+2023-01-07,Chocolate,Confectionery,12,2.50,C007
+2023-01-08,Carrots,Produce,18,0.70,C008
+2023-01-09,Yogurt,Dairy,6,1.20,C009
+2023-01-09,Baguette,Bakery,4,2.50,C010
+2023-01-10,Butter,Dairy,5,3.00,C001
+2023-01-11,Grapes,Fruit,25,1.00,C011
+2023-01-11,Strawberries,Fruit,30,1.50,C012
+2023-01-12,Beef,Meat,7,7.00,C013
+2023-01-13,Toothpaste,Personal Care,3,4.00,C014
+2023-01-14,Coffee,Beverages,10,5.00,C015
+2023-01-15,Cookies,Confectionery,20,1.50,C016
+2023-01-16,Lettuce,Produce,15,1.00,C017
+2023-01-17,Eggs,Dairy,12,2.00,C018
+2023-01-17,Croissant,Bakery,8,2.20,C019
+2023-01-18,Cream Cheese,Dairy,4,3.50,C020
+2023-01-19,Pear,Fruit,22,0.90,C021
+2023-01-19,Blueberries,Fruit,18,2.00,C022
+2023-01-20,Pork,Meat,6,6.00,C023
+2023-01-21,Deodorant,Personal Care,5,3.50,C024
+2023-01-22,Tea,Beverages,12,4.00,C025
+2023-01-23,Candy,Confectionery,30,0.75,C026
+2023-01-24,Tomatoes,Produce,20,0.80,C027
+2023-01-25,Sour Cream,Dairy,7,2.50,C028
+2023-01-25,Pita Bread,Bakery,10,1.80,C029
+2023-01-26,Ice Cream,Dairy,5,4.50,C030
+2023-01-27,Peaches,Fruit,15,1.20,C031
+2023-01-27,Raspberries,Fruit,12,2.50,C032
+2023-01-28,Turkey,Meat,9,8.00,C033
+2023-01-29,Shaving Cream,Personal Care,4,5.00,C034
+2023-01-30,Soda,Beverages,15,2.00,C035
+2023-01-31,Gum,Confectionery,50,0.50,C036
+2023-02-01,Onions,Produce,25,0.60,C037
+2023-02-02,Kefir,Dairy,8,3.00,C038
+2023-02-02,Bagel,Bakery,12,1.50,C039
+2023-02-03,Cottage Cheese,Dairy,6,2.80,C040
+2023-02-04,Plums,Fruit,20,1.00,C041
+2023-02-04,Blackberries,Fruit,10,3.00,C042
+2023-02-05,Lamb,Meat,5,9.00,C043
+2023-02-06,Moisturizer,Personal Care,3,7.00,C044
+2023-02-07,Energy Drink,Beverages,8,3.50,C045
+2023-02-08,Chocolate Bar,Confectionery,25,1.00,C046
+2023-02-09,Potatoes,Produce,30,0.50,C047
+2023-02-10,Half and Half,Dairy,9,2.00,C048
+2023-02-10,Donut,Bakery,15,1.20,C049
+2023-02-11,Whipped Cream,Dairy,4,3.00,C050
+2023-02-12,Apricots,Fruit,18,1.50,C051
+2023-02-12,Cherries,Fruit,14,2.50,C052
+2023-02-13,Duck,Meat,4,10.00,C053
+2023-02-14,Face Wash,Personal Care,6,6.00,C054
+2023-02-15,Sparkling Water,Beverages,20,1.50,C055
+2023-02-16,Lollipop,Confectionery,40,0.25,C056
+2023-02-17,Spinach,Produce,22,1.20,C057
+2023-02-18,Almond Milk,Dairy,7,3.50,C058
+2023-02-18,Cinnamon Roll,Bakery,10,2.00,C059
+2023-02-19,Goat Cheese,Dairy,5,4.00,C060
+2023-02-20,Watermelon,Fruit,2,4.00,C061
+2023-02-20,Cantaloupe,Fruit,3,3.50,C062
+2023-02-21,Venison,Meat,3,12.00,C063
+2023-02-22,Body Lotion,Personal Care,4,8.00,C064
+2023-02-23,Hot Chocolate,Beverages,12,2.50,C065
+2023-02-24,Jelly Beans,Confectionery,35,0.75,C066
+2023-02-25,Bell Peppers,Produce,15,1.50,C067
+2023-02-26,Soy Milk,Dairy,6,3.00,C068
+2023-02-26,Pretzel,Bakery,20,1.00,C069
+2023-02-27,Feta Cheese,Dairy,8,3.50,C070
+2023-02-28,Kiwi,Fruit,12,1.00,C071
+2023-03-01,Mango,Fruit,10,2.00,C072
+2023-03-02,Salmon,Meat,7,11.00,C073
+2023-03-03,Hand Soap,Personal Care,5,4.50,C074
+2023-03-04,Lemonade,Beverages,15,2.00,C075
+2023-03-05,Marshmallows,Confectionery,50,0.50,C076
+2023-03-06,Zucchini,Produce,18,1.00,C077
+2023-03-07,Ricotta Cheese,Dairy,4,3.00,C078
+2023-03-07,Scone,Bakery,12,1.80,C079
+2023-03-08,Provolone Cheese,Dairy,6,4.00,C080
+2023-03-09,Pineapple,Fruit,8,3.00,C081
+2023-03-09,Papaya,Fruit,6,4.00,C082
+2023-03-10,Trout,Meat,5,10.00,C083
+2023-03-11,Body Wash,Personal Care,7,5.50,C084
+2023-03-12,Iced Tea,Beverages,10,2.50,C085
+2023-03-13,Licorice,Confectionery,30,0.80,C086
+2023-03-14,Cucumbers,Produce,20,0.90,C087
+2023-03-15,Colby Cheese,Dairy,5,3.50,C088
+2023-03-15,Muffin,Bakery,15,1.50,C089
+2023-03-16,Monterey Jack Cheese,Dairy,7,4.00,C090
+2023-03-17,Honeydew,Fruit,4,3.50,C091
+2023-03-17,Guava,Fruit,5,2.50,C092
+2023-03-18,Tilapia,Meat,8,7.00,C093
+2023-03-19,Face Scrub,Personal Care,3,9.00,C094
+2023-03-20,Herbal Tea,Beverages,12,3.00,C095
+2023-03-21,Caramel,Confectionery,40,0.60,C096
+2023-03-22,Green Beans,Produce,25,1.00,C097
+2023-03-23,Swiss Cheese,Dairy,6,4.50,C098
+2023-03-23,Cornbread,Bakery,10,2.00,C099
+2023-03-24,Gouda Cheese,Dairy,5,5.00,C100

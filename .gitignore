@@ -1,0 +1,49 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore output files and directories
+/outputs/
+/after_customer_segmentation.png
+/before_customer_segmentation.png
+/category_revenue.png
+/customer_trend.png
+/daily_revenue.png
+
+# Ignore uploaded files
+/uploads/
+
+# Ignore environment and virtual environment files
+venv/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Python build files
+build/
+dist/
+*.egg-info/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+Thumbs.db

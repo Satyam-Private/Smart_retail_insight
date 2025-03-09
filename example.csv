@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,CustomerID
+2023-01-01,Milk,Dairy,10,1.50,C001
+2023-01-01,Bread,Bakery,5,2.00,C002
+2023-01-02,Cheese,Dairy,3,4.00,C001
+2023-01-03,Apple,Fruit,20,0.80,C003
+2023-01-03,Banana,Fruit,15,0.50,C004
+2023-01-04,Chicken,Meat,8,5.00,C005
+2023-01-05,Shampoo,Personal Care,2,6.00,C002
+2023-01-06,Orange Juice,Beverages,7,3.00,C006
+2023-01-07,Chocolate,Confectionery,12,2.50,C007
+2023-01-08,Carrots,Produce,18,0.70,C008
